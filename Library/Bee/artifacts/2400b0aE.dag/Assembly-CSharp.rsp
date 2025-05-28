@@ -392,6 +392,7 @@
 "Assets/LowPolyLight/Effect/Bloom.cs"
 "Assets/MazeAreaDensityCalculator.cs"
 "Assets/ObstacleCounter.cs"
+"Assets/PathfindingAI.cs"
 "Assets/ROS2/Examples/ListenerExample.cs"
 "Assets/ROS2/Examples/TalkerExample.cs"
 "Assets/ROS2/Robots/turtlebot3/Scripts/TurtlebotWheelSpinner.cs"
